@@ -13,16 +13,10 @@ This project is designed for **crawling data from various social media platforms
 - Support for multiple platforms:  
   - Twitter  
   - Facebook  
-  - YouTube  
   - Instagram  
   - Medium  
   - Reddit  
-  - TikTok  
-  - SoundCloud  
-  - IMDb  
-  - Tumblr  
-  - Quora  
-  - Aparat  
+  - TikTok 
 
 - Flexible architecture: each crawler runs independently, allowing you to scale and adapt the project to specific needs.  
 - REST API interface built with **FastAPI** for easy integration with other services.  
