@@ -6,17 +6,23 @@
 This project is designed for **crawling data from various social media platforms** using a set of specialized crawler modules.  
 
 ---
+## Use Cases  
 
+The **Social Crawlers Raised** project was used for advanced social media data collection and internal content visualization.  
+Key scenarios included:  
+
+- Collecting **posts, comments, likes, and reposts** from multiple social media platforms.  
+- Displaying identical copies of posts inside the internal system, replicating their original look.  
+- Showing detailed context for each post:  
+  - The **author** who published it  
+  - The **platform** (e.g., Twitter, Facebook, Instagram, etc.)  
+  - The **full post content** with media, as it appears on the real social network  
+- Providing analysts and managers with a unified interface for monitoring cross-platform engagement.
+---
 ## Features  
 
 - Collects all available posts from supported platforms.  
-- Support for multiple platforms:  
-  - Twitter  
-  - Facebook  
-  - Instagram  
-  - Medium  
-  - Reddit  
-  - TikTok 
+- Support for multiple platforms: Twitter, Facebook, Instagram, Medium, Reddit, TikTok
 
 - Flexible architecture: each crawler runs independently, allowing you to scale and adapt the project to specific needs.  
 - REST API interface built with **FastAPI** for easy integration with other services.  
