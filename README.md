@@ -8,7 +8,7 @@ This project is designed for **crawling data from various social media platforms
 ---
 ## Use Cases  
 
-The **Social Crawlers Raised** project was used for advanced social media data collection and internal content visualization.  
+The **Social Crawlers Raased** project was used for advanced social media data collection and internal content visualization.  
 Key scenarios included:  
 
 - Collecting **posts, comments, likes, and reposts** from multiple social media platforms.  
@@ -74,17 +74,6 @@ If you pass an invalid engine name, the program will terminate with an error mes
 ```bash 
 Invalid SmmEngine. Exiting...
 ```
-
-## Use Cases
-
-This project can be used for:
-
- - trend and activity analysis across social networks,
-
- - data collection for research or ML models,
-
- - dashboards and brand monitoring.
-
 
 ### VS Code PyTest Debug launch.json:
 ```json
